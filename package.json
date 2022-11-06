@@ -301,7 +301,7 @@
     "yarn-deduplicate": "^3.1.0"
   },
   "dependencies": {
-    "@apollo/client": "^3.3.14",
+    "@apollo/client": "^3.7.0",
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
     "@fontsource/roboto": "^4.5.1",
