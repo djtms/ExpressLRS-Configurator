@@ -311,7 +311,7 @@
     "@mui/icons-material": "^5.10.9",
     "@mui/material": "^5.10.9",
     "@octokit/rest": "^19.0.4",
-    "apollo-server-express": "^3.9.0",
+    "apollo-server-express": "^3.13.0",
     "autosuggest-highlight": "^3.2.1",
     "bluejay-rtttl-parse": "^2.0.2",
     "class-validator": "^0.13.2",
