@@ -299,7 +299,7 @@
     "@fontsource/roboto": "^5.0.8",
     "@mui/icons-material": "^5.15.3",
     "@mui/material": "^5.15.3",
-    "@octokit/rest": "^20.0.2",
+    "@octokit/rest": "^22.0.0",
     "autosuggest-highlight": "^3.2.1",
     "bluejay-rtttl-parse": "^2.0.2",
     "class-validator": "^0.14.0",
