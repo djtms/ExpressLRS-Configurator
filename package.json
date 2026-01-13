@@ -330,7 +330,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^14.0.0",
-    "react-router-dom": "^6.21.1",
+    "react-router-dom": "^6.30.3",
     "reflect-metadata": "^0.2.1",
     "regenerator-runtime": "^0.14.1",
     "sanitize-filename": "^1.6.3",
